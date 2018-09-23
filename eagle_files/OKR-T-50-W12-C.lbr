@@ -129,7 +129,7 @@
 <connect gate="G$1" pin="-SENSE" pad="10"/>
 <connect gate="G$1" pin="-TRIM" pad="7"/>
 <connect gate="G$1" pin="ENABLE" pad="6"/>
-<connect gate="G$1" pin="PGND" pad="4 5"/>
+<connect gate="G$1" pin="PGND" pad="4 5 14 15" route="any"/>
 <connect gate="G$1" pin="PGOOD" pad="9"/>
 <connect gate="G$1" pin="TRIM" pad="8"/>
 <connect gate="G$1" pin="VIN+" pad="12 13"/>

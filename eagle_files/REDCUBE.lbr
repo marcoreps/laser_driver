@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.6.1">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -93,7 +93,7 @@
 <pad name="P$2" x="2.935" y="2.935" drill="1.85" diameter="3.2"/>
 <pad name="P$3" x="2.935" y="-2.935" drill="1.85" diameter="3.2"/>
 <pad name="P$4" x="-2.935" y="-2.935" drill="1.85" diameter="3.2"/>
-<hole x="0" y="0" drill="3"/>
+<hole x="0" y="0" drill="4.1"/>
 </package>
 </packages>
 <symbols>
